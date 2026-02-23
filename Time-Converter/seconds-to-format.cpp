@@ -9,9 +9,9 @@ public:
         int seconds = totalSeconds % 60;
 
         cout << "HH:MM:SS => "
-             << hours << ":"
-             << minutes << ":"
-             << seconds << endl;
+            << hours << ":"
+            << minutes << ":"
+            << seconds << endl;
     }
 };
 
